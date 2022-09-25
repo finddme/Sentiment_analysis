@@ -1,4 +1,4 @@
-# TE(Text Empathy) 3.0
+# Sentiment_analysis
 - Emotion class를 예측하는 KoELECTRA기반 classification fine-tune task
 
 ## model information
